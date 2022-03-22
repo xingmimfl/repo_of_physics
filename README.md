@@ -9,4 +9,8 @@
 - https://bridge.kek.jp/Lattice-code/index_e.html 日本研究者
 - https://github.com/HISKP-LQCD Bonn大学的Lattice组
 - https://github.com/milc-qcd/milc_qcd 代码好久没有更新了
--- https://web.physics.utah.edu/~detar/milc/ MILC的官方主页
+- https://web.physics.utah.edu/~detar/milc/ MILC的官方主页
+
+### UrQMD
+- https://github.com/chunshen1987 下面有很多项目
+- https://github.com/MUSIC-fluid MUSIC流体的解法
