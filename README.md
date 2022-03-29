@@ -14,3 +14,6 @@
 ### UrQMD
 - https://github.com/chunshen1987 下面有很多项目
 - https://github.com/MUSIC-fluid MUSIC流体的解法
+
+### hydro
+- https://github.com/python-hydro/hydro_examples
